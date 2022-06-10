@@ -1,7 +1,3 @@
-from gettext import install
-from turtle import st1
-
-
 import streamlit as st
 from PIL import Image
 image = Image.open('macrogal.png')
