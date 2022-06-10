@@ -59,7 +59,7 @@ if selectUF == 'São Paulo' and selectOCU == 'Depósito' and largura == '15 m' a
     images1 = Image.open('s1.png')
     st.image(images1)
     st.write('05 placas de Sinalização de saída para a esquerda tipo S2')
-    images2 = Image.open('placas/s2.png')
+    images2 = Image.open('s2.png')
     st.image(images2)
     st.write('02 placas de Sinalização de saída da Edificação tipo S12')
     images12 = Image.open('s12.png')
