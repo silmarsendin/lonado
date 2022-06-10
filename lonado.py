@@ -1,5 +1,5 @@
 from gettext import install
-from turtle import st
+from turtle import st1
 
 
 import streamlit as st
